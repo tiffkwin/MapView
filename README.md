@@ -1,2 +1,2 @@
-# yoot
+# MapView
 AR Street View Ratings Application
